@@ -1,0 +1,126 @@
+main {
+    display: flex;
+    justify-content: center;
+    margin-top: 30vh;
+}
+
+p.hotel {
+    display: inline;
+    font-family: Arial;
+    text-align: left;
+    color: #007fad;
+    font-size: 24px;
+    margin: 2vh 5vw 5vh 3vw;
+    min-width: 29vw;
+}
+
+section {
+    margin-left: 30vw;
+}
+
+.head {
+    margin: 0vh 10vw 0vh 30vw;
+    display: flex;
+}
+
+p.places {
+    margin: 30vh 0vw 0vh 15vw;
+    text-align: left;
+    color: #007fad;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+.head img {
+    width: 21vw;
+    height: 13vh;
+    border-right: 1px solid #ebeced;
+}
+
+.photos img {
+    max-width: 18vw;
+    min-width: 18vw;
+    max-height: 25vh;
+    min-height: 25vh;
+    display: inline;
+    padding: 5px;
+}
+
+.log {
+    font-family: Arial;
+    text-align: right;
+}
+
+.one {
+    display: inline;
+    border-left: 1px solid #ebeced;
+    padding: 10px;
+}
+
+.two {
+    display: inline;
+    border-left: 1px solid #ebeced;
+    padding: 10px;
+}
+
+.thre {
+    display: inline;
+    margin-right: 3vw;
+    border-left: 1px solid #ebeced;
+    padding: 10px;
+}
+
+.photos {
+    margin-left: 15vw;
+}
+
+.input_text {
+    max-width: 50vw;
+    min-width: 45vw;
+    max-height: 5vh;
+    min-height: 5vh;
+    padding-left: 45px;
+}
+
+.search {
+    position: absolute;
+    width: auto;
+    height: 43px;
+    padding: 14px 12px;
+    background: #007fad;
+    border-radius: 0 2px 2px 0;
+    border: 0;
+    margin: 0%;
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.img {
+    position: absolute;
+    height: 28px;
+    padding: 9px;
+}
+
+.arrow {
+    height: 20px;
+}
+
+.city {
+    display: inline;
+}
+
+.city h3 {
+    position: relative;
+    display: inline;
+    margin: 112px;
+}
+.top{
+    border-bottom: 1px solid #CDD0D2;
+    width: 75vw;
+    margin-left: 15vw;
+    color: #37454d;
+    padding: 16px 8px;
+    font: inherit;
+
+}
